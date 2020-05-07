@@ -3,3 +3,4 @@
 * git add <filenames / * for all files> (Adds files to staging)
 * git commit -m "commit message" (commits staged files to repository)
 * git pull (fetches changes from reomote repository)
+* git diff (shows differences)
