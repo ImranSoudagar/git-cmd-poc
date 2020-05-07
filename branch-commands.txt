@@ -1,1 +1,9 @@
 
+* git branch (Shows list of available branches with * on working tree)
+* git branch imran (creates a brach locally)
+* git push --set-upstream origin imran (pushes the local branch to upstream)
+* git checkout imran (to make the branch imran active)
+ 
+
+
+
